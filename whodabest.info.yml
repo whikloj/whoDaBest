@@ -1,0 +1,9 @@
+name: Who Da Best
+description: Whom is the preeminent?
+package: Other
+
+type: module
+core: 8.x
+
+dependencies:
+  - islandora
